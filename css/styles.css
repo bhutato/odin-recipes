@@ -1,0 +1,27 @@
+body{
+    background-color: #FAF1E4;
+    margin: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #21251b;
+    border-radius: 2rem;
+    
+}
+
+h1,
+h2{
+    background-color: #435334;
+    color: #FFF3E2;
+    border-radius: 2rem; 
+    
+}
+
+.text-container{
+    background-color: #FFF3E2;
+    display: flex;
+}
+
+h1,
+h2,
+p{
+    padding-left: 1rem;
+}
