@@ -25,3 +25,26 @@ h2,
 p{
     padding-left: 1rem;
 }
+.header-container{
+    overflow: hidden;
+}
+.header-image-container{
+    position: relative;
+    z-index:-1; 
+    display: inline-block;
+    margin-left: 30%;
+}
+.header-text{
+    display: inline-block;
+    color: #21251b;
+    font-size: 9rem;
+    font-weight: 900;
+} 
+
+.header-image{
+    margin-right:-20px;
+    transform: rotate(-45deg);
+    width: 30em;
+    height: auto;
+    
+}
